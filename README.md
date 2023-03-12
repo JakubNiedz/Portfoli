@@ -3,8 +3,8 @@
 I am a strongly motivated to become a manual tester.
 ## TOOLS
 * Jira
-* TestLink
-* GitHub
+* Postman
+* Selenium IDE
 ## TECH SKIILS
 * Software testing
 * Creating test cases
