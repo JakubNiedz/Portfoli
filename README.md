@@ -5,12 +5,15 @@ I am a strongly motivated to become a manual tester.
 * Jira
 * Postman
 * Selenium IDE
+* Basic SQL
 ## TECH SKIILS
 * Software testing
 * Creating test cases
 * Website testing
 ## COURSES
 * The Complete 2023 Software Testing Bootcamp - Tarek Rohsdy
+## Books
+* "Zawód tester. Od decyzji do zdobycia doświadczenia" -Radosław Smilgin
 ## RECOMENDED BLOGS
 * testerzy.pl
 * testuj.pl
