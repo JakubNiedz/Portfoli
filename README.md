@@ -1,4 +1,4 @@
-# Portfolio-tester-manualny # PORTFOLIO
+# Portfolio tester manualny 
 ## TOOLS
 * Jira
 * Postman
