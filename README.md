@@ -1,6 +1,4 @@
 # Portfolio-tester-manualny # PORTFOLIO
-## ABOUT ME
-I am a strongly motivated to become a manual tester.
 ## TOOLS
 * Jira
 * Postman
