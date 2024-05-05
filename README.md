@@ -3,6 +3,6 @@ I am a programmer looking for a job as an intern in areas related to Python and 
 ### Technologies
 -Python
 -Sql
--Power BI
+
 
 
